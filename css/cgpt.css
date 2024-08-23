@@ -66,6 +66,19 @@ section {
   background: #f4f4f4;
   padding: 20px;
   border-radius: 5px;
+  text-align: center;
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.price {
+  font-size: 1.2em;
+  color: #333;
+  margin: 10px 0;
 }
 
 .contact-info {
