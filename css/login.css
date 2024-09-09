@@ -3,9 +3,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  width: 400px;
-  height: 900px;
   font-family: sans-serif;
+  height: 100vh;
 }
 
 .container {
@@ -63,7 +62,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(255, 123, 0);
+background-color:  rgb(255, 123, 0);
   color: white;
   font-weight: 50%;
 }
